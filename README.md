@@ -1,4 +1,4 @@
-# LocalizaLabs :Car: 
+# LocalizaLabs :car: 
 
 ### Repositorio destinado a mostrar meu desenvolvimento durante a bootcamp da Localiza
 ### Tecnologias 
